@@ -19,10 +19,17 @@ Rules:
 
 
 Technologies to be used:
+
 • HTML 
+
 • CSS
+
 • Bootstrap 5
+
 • Git & Github
+
 • VS Code or any other IDE
+
 • Chrome Extensions & Developer Tools
+
 • JS/Jquery (Optional)
